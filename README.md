@@ -27,14 +27,13 @@ Ensure you have the following installed:
 1. **Clone the repository**
    ```sh
    git clone https://github.com/Aditi-Srivastav/banking-management-system.git
-   cd banking-management-system
    ```
 2. **Move project files to XAMPP htdocs directory**
 3. **Start Apache and MySQL in XAMPP**
 4. **Import Database**
    - Open phpMyAdmin
-   - Create a database (e.g., `bank_system`)
-   - Import `bank_system.sql` from the project folder
+   - Create a database 
+   - Import Database from the project folder
 5. **Run the Project**
    - Open a browser and go to:
      ```
